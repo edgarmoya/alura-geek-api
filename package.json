@@ -1,16 +1,16 @@
 {
   "name": "alura-geek-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "api/server.js",
+  "description": "API para Alura Geek contruida con JSON Server",
+  "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "edgarmoya",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.4"
   }
 }
